@@ -9,8 +9,7 @@ This repo contains my lecture notes and projects from Paul Hegarty's classic [CS
 This course is described as being updated for iOS 10 and Swift 3, Tools, and APIs required to build applications for the iPhone and iPad platforms using the iOS SDK. The course covers user interface design for mobile devices and unique user interactions using multi-touch technologies. Object-oriented design using model-view-controller paradigm, memory management, the Swift programming language. Other topics include: animation, mobile device power management, multi-threading, networking and performance considerations.
 
 ## Lectures
-
-Lecture  | Slides | Source | Video | Date
+Lecture | Slides | Source | Video | Date
 | ------------- | ------------- | ------------- | ------------- | -------------
 | 1. | [Course Overview: Intro to iOS, Xcode, and Swift](slides/Lecture-1-Slides.pdf) |  | [![](art/play.png?raw=true)](https://youtu.be/ilQ-tq772VI?list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai) | January 9, 2017
 | 2. | [Applying MVC: Calculator Demo Continued](slides/Lecture-2-Slides.pdf) |  | [![](art/play.png?raw=true)](https://youtu.be/-auG-myu02Q?list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai) | January 11, 2017
@@ -23,6 +22,12 @@ Lecture  | Slides | Source | Video | Date
 | 9. | [Table View](slides/Lecture-9-Slides.pdf) | [![](art/Xcode.png?raw=true)](democode/Lecture-9-Demo-Code_Smashtag.pdf) |  [![](art/play.png?raw=true)](https://youtu.be/78LWmmDxr4k?list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai) | February 8, 2017
 | 10. | [Core Data](slides/Lecture-10-Slides.pdf) |  |  [![](art/play.png?raw=true)](https://youtu.be/ssIpdu73p7A?list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai) | February 13, 2017
 | 11. | Core Data Demo | [![](art/Xcode.png?raw=true)](democode/Lecture-11-Demo-Code_Smashtag.pdf) | [![](art/play.png?raw=true)](https://youtu.be/whF63GTaW1w?list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai) | February 15, 2017
+| 12. | [Autolayout](slides/Lecture-12-Slides.pdf) | | [![](art/play.png?raw=true)](https://youtu.be/UPpl3LV5L8w?list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai) | February 22, 2017
+| 13. | [Timer / Animation](slides/Lecture-13-Slides.pdf) | [![](art/Xcode.png?raw=true)](democode/Lecture-13-Demo-Code_FaceIt.pdf) | [![](art/play.png?raw=true)](https://youtu.be/6tdNJwDwFys?list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai) | February 27, 2017
+| 14. | Dynamic Animation Demos | [![](art/Xcode.png?raw=true)](democode/Lecture-14-Demo-Code_Asteroids.pdf) | [![](art/play.png?raw=true)](https://youtu.be/8RYQ1a_ZDmw?list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai) | March 1, 2017
+| 15. | [Segues](slides/Lecture-15-Slides.pdf) | [![](art/Xcode.png?raw=true)](democode/Lecture-15-Demo-Code_FaceIt_Segues.pdf) | [![](art/play.png?raw=true)](https://youtu.be/MJkLuBbkgGc?list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai) | March 6, 2017
+| 16. | [Alerts, Notifications, Lifecycles, Persistence](slides/Lecture-16-Slides.pdf) | | [![](art/play.png?raw=true)](https://youtu.be/hkUeDMW7qX0?list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai) | March 8, 2017
+| 17. | Accessibility | | [![](art/play.png?raw=true)](https://youtu.be/NOzXRBom7bw?list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai) | March 13, 2017
 
 ## Reading Assignments
 
@@ -40,6 +45,7 @@ PS  | Name
 | 2. | [Assignment 2: Calculator Brain](problemsets/Programming_Project_2_Calculator_Brain.pdf)
 | 3. | [Assignment 3: Graphing Calculator](problemsets/Programming_Project_3_Graphing_Calc.pdf)
 | 4. | [Assignment 4: Smashtag Mentions](problemsets/Programming_Project_4_Smashtag_Mentions.pdf)
+| 5. | [Assignment 5: Smashtag Mention Popularity](problemsets/Programming_Project_5_Smashtag_Mention_Popularity.pdf)
 
 ## Licensing
 My CS193p projects are licensed under [the MIT License](LICENSE).
